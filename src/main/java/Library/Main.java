@@ -11,8 +11,8 @@ public class Main<menu> {
         conn conn = new conn();
         conn.getC();
         Scanner scanner = new Scanner(System.in);
-        System.out.println(" please choice your categories" +
-                "enter 1 for admin panel enter 2 for Student panel");
+        System.out.println(" Please choice your categories" +
+                "Enter 1 for admin panel enter 2 for Student panel");
 
         int choice = scanner.nextInt();
         if (choice == 1) {
