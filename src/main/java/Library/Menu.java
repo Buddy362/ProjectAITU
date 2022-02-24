@@ -23,7 +23,7 @@ public class Menu {
             System.out.println("1. Add book");
             System.out.println("2. Remove book");
             System.out.println("3. Print students information");
-            System.out.println("4. remove student ");
+            System.out.println("4. Remove student ");
             System.out.println("0. Exit");
             choice = scanner.nextInt();
 
